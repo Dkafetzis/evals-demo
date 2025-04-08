@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-repo-eap-7.1" />
+      <option name="name" value="maven-repo-eap-7.1" />
+      <option name="url" value="https://download.eng.bos.redhat.com/devel/candidates/middleware/eap/JBEAP-7.1.7.CR2/maven-repository/maven-repository/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-repo-eap-7.3" />
+      <option name="name" value="maven-repo-eap-7.3" />
+      <option name="url" value="https://download-01.beak-001.prod.iad2.dc.redhat.com/brewroot/repos/jb-eap-7.3-maven-build/8883283/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-repo-redhat-devel" />
+      <option name="name" value="maven-repo-redhat-devel" />
+      <option name="url" value="https://maven.repository.redhat.com/ga/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshot-repo" />
+      <option name="name" value="snapshot-repo" />
+      <option name="url" value="https://s01.oss.sonatype.org/content/repositories/snapshots" />
+    </remote-repository>
+  </component>
+</project>
